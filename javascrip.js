@@ -4,8 +4,7 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => { 
     question.innerHTML = "Aaaaa, Love you too";
-    gif.src =
-"https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp"; 
+    gif.src = "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp"; 
 });
 
 noBtn.addEventListener("mouseover", () => { 
